@@ -2,6 +2,7 @@
 
 A PHP-based web app visualizing India’s import data across states and categories. Designed to help users analyze trade patterns through interactive pages and future-ready visualizations.
 
+---
 ## ⏳ Built in 36 Hours During HackOrbit Hackathon
 
 All code, design, and testing were done from **July 8, 2025 to July 9, 2025**.
@@ -111,15 +112,6 @@ HackOrbit2025-CodebySurekha/
 - Add admin dashboard with login for data management
 - Integrate Chart.js and export functions (PDF, Excel)
 - Deploy online with user authentication
-
----
-
-## 🖼️ Demo & Screenshots
-
-🎥 Click below to watch the demo of the project:
-
-[![Watch the Demo](https://img.youtube.com/vi/KN635aCdZdI/0.jpg)](https://youtu.be/KN635aCdZdI)
-
 
 ---
 
