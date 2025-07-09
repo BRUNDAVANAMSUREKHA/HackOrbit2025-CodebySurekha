@@ -152,6 +152,7 @@ Edit the following files to set your database credentials:
 
 **Optional**: If you have a sample database file, Use it inplace of the "india_imports.sql".
 
+---
 
 ## 🤝 Collaboration & Contribution
 
