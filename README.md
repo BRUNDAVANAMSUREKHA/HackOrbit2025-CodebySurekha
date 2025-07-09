@@ -133,7 +133,7 @@ git clone https://github.com/BRUNDAVANAMSUREKHA/HackOrbit2025-CodebySurekha.git
 
 ### 2. Move to Server Root
 
-Place the `IMPORT/` folder inside your server root directory:
+Place the `HackOrbit2025-CodebySurekha/` folder inside your server root directory:
 
 - For **XAMPP**: `htdocs/`
 - For **WAMP**: `www/`
@@ -163,7 +163,7 @@ This was an individual hackathon submission. However, the modular architecture i
 ## 📬 Contact
 
 Maintained by [@BRUNDAVANAMSUREKHA](https://github.com/BRUNDAVANAMSUREKHA)  
-For issues, please use the [GitHub Issues](https://github.com/BRUNDAVANAMSUREKHA/Imports-In-India/issues) section.
+For issues, please use the [GitHub Issues](https://github.com/BRUNDAVANAMSUREKHA/HackOrbit2025-CodebySurekha/issues) section.
 
 ---
 
