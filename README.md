@@ -128,7 +128,7 @@ HackOrbit2025-CodebySurekha/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/imports-in-india.git
+git clone https://github.com/BRUNDAVANAMSUREKHA/HackOrbit2025-CodebySurekha.git
 ```
 
 ### 2. Move to Server Root
